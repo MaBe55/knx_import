@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.libelektra</groupId>
             <artifactId>libelektra4j</artifactId>
-            <version>0.9.0</version>
+            <version>0.9.5</version>
         </dependency>
         
         <dependency>
